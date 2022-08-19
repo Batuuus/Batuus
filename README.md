@@ -20,6 +20,7 @@ EDİTLERİ İZLEYİN!  İZLEMEZSENİZ ALLAHINIZI YERİM .D
 ```js
 class Batuuu {
   constructor(...options) {
+    this.name = "Batuhan"
     this.height = "1.79"
     this.weight = "63"
     this.type = "human"
