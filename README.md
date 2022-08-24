@@ -21,8 +21,9 @@ EDİTLERİ İZLEYİN!
 class Batuuu {
   constructor(...options) {
     this.name = "Batuhan"
-    this.height = "1.79"
-    this.weight = "63"
+    this.age = "17"
+    this.height = "1.80"
+    this.weight = "69"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
