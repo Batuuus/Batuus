@@ -2,7 +2,9 @@
     <img src="https://64.media.tumblr.com/dfc4b9528faf6f7c9b63077b4aa5bd60/tumblr_pt26terMLs1r60zuio1_540.gif" alt="Asta"/>
 </h1>
 
-[Tylerdurden](https://user-images.githubusercontent.com/76614531/203120024-97f99caf-5668-4375-85d4-70f2eeef7acb.mp4)
+[Tyler Durden](https://user-images.githubusercontent.com/76614531/203120385-f04fab31-b654-46b0-8bbc-07821d863f18.mp4)
+
+[Tyler Durden 2]
  
 [4p9p4o](https://user-images.githubusercontent.com/76614531/185392092-edeb9b8a-83ff-467a-bdf1-d30d4a8a981c.mp4)
 
