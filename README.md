@@ -25,7 +25,8 @@ class Batuuu {
     this.height = "1.84"
     this.type = "human"
     this.job = "student"
-    this.sex = "male"
+    this.sex = "male" 
+    this.lifemotto= "All the ways you wish you could be, that's me"
   }
 }
 
