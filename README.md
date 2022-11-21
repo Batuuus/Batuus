@@ -22,7 +22,7 @@ class Batuuu {
   constructor(...options) {
     this.name = "Batuhan"
     this.age = "17"
-    this.height = "1.80"
+    this.height = "1.84"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
