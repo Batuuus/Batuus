@@ -1,11 +1,7 @@
 <h1 align="center">
     <img src="https://64.media.tumblr.com/dfc4b9528faf6f7c9b63077b4aa5bd60/tumblr_pt26terMLs1r60zuio1_540.gif" alt="Asta"/>
-<h1 align="center">
-<img src="https://cdn.discordapp.com/attachments/1043621939052290128/1044300424502575224/312146756_187822407066713_6896811169081449244_n.mp4" alt="TylerDurden"/>
-EDİTLERİ İZLEYİN!
-
 </h1>
-
+[Tylerdurden](https://cdn.discordapp.com/attachments/1043621939052290128/1044300424502575224/312146756_187822407066713_6896811169081449244_n.mp4)
  
 [4p9p4o](https://user-images.githubusercontent.com/76614531/185392092-edeb9b8a-83ff-467a-bdf1-d30d4a8a981c.mp4)
 
