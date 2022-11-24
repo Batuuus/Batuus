@@ -2,6 +2,8 @@
     <img src="https://64.media.tumblr.com/dfc4b9528faf6f7c9b63077b4aa5bd60/tumblr_pt26terMLs1r60zuio1_540.gif" alt="Asta"/>
 </h1>
 
+[Kakegurui X Death Note](https://user-images.githubusercontent.com/76614531/203748320-9349f389-8e39-4258-9580-a35e36dfc908.mp4)
+
 [Tyler Durden](https://user-images.githubusercontent.com/76614531/203120385-f04fab31-b654-46b0-8bbc-07821d863f18.mp4)
 
 [Tyler Durden 2](https://user-images.githubusercontent.com/76614531/203120787-de36301b-20ee-4e94-a35d-9f6aebcd6e56.mp4)
