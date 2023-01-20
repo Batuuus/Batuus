@@ -4,8 +4,6 @@
 
 [KakeguruiXDeathNote](https://user-images.githubusercontent.com/76614531/203748320-9349f389-8e39-4258-9580-a35e36dfc908.mp4)
 
-[Tyler Durden](https://user-images.githubusercontent.com/76614531/203120385-f04fab31-b654-46b0-8bbc-07821d863f18.mp4)
-
 [Tyler Durden 2](https://user-images.githubusercontent.com/76614531/203120787-de36301b-20ee-4e94-a35d-9f6aebcd6e56.mp4)
  
 [4p9p4o](https://user-images.githubusercontent.com/76614531/185392092-edeb9b8a-83ff-467a-bdf1-d30d4a8a981c.mp4)
