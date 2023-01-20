@@ -83,6 +83,6 @@ Batuuu.createDay();
 <h3>🌟 İletişim!</h3>
  <a href="https://open.spotify.com/user/21fvizvjjspdlp2w6wznufjti" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
       <a href="https://discord.com/users/940220854187466773" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
-      <a href="https://discord.gg/1997" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=green"></a>
+      <a href="https://discord.gg/1997" target"blank_"><img src="https://img.shields.io/badge/Discord-#535353?style=for-the-badge&logo=discord&logoColor=green"></a>
 
 </p>
