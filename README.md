@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://64.media.tumblr.com/dfc4b9528faf6f7c9b63077b4aa5bd60/tumblr_pt26terMLs1r60zuio1_540.gif" alt="Asta"/>
 </h1>
+
 ```js
 class Batuuu {
   constructor(...options) {
