@@ -1,22 +1,6 @@
 <h1 align="center">
     <img src="https://64.media.tumblr.com/dfc4b9528faf6f7c9b63077b4aa5bd60/tumblr_pt26terMLs1r60zuio1_540.gif" alt="Asta"/>
 </h1>
-
-[KakeguruiXDeathNote](https://user-images.githubusercontent.com/76614531/203748320-9349f389-8e39-4258-9580-a35e36dfc908.mp4)
-
-[Tyler Durden 2](https://user-images.githubusercontent.com/76614531/203120787-de36301b-20ee-4e94-a35d-9f6aebcd6e56.mp4)
- 
-[4p9p4o](https://user-images.githubusercontent.com/76614531/185392092-edeb9b8a-83ff-467a-bdf1-d30d4a8a981c.mp4)
-
-
-[4p9p4o](https://user-images.githubusercontent.com/76614531/185396170-4c8124b4-2803-48fc-8eaa-6e850d499a78.mp4)
-
-
-[4p9p4o](https://user-images.githubusercontent.com/76614531/185397004-a282e3b8-1d29-493e-8baf-7bbb8e072cf6.mp4)
-
-
-[4p9p4o](https://user-images.githubusercontent.com/76614531/185398374-70ef0d53-8cdb-4ea4-b97a-0cfd5008c2ff.mp4)
-
 ```js
 class Batuuu {
   constructor(...options) {
@@ -83,6 +67,6 @@ Batuuu.createDay();
 <h3>🌟 İletişim!</h3>
  <a href="https://open.spotify.com/user/21fvizvjjspdlp2w6wznufjti?si=50afb537bc16403c" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
       <a href="https://discord.com/users/768789639976321044" target"blank_"><img src="https://img.shields.io/badge/Discord-535353?style=for-the-badge&logo=discord&logoColor=white"></a>
-      <a href="https://discord.gg/darksupreme" target"blank_"><img src="https://img.shields.io/badge/MyDiscordServer-535353?style=for-the-badge&logo=discord&logoColor=green"></a>
+      <a href="https://discord.gg/darksupreme" target"blank_"><img src="https://img.shields.io/badge/DiscordServer-535353?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
