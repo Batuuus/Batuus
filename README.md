@@ -53,7 +53,7 @@ let Batuuu = new CreateMan()
 Batuuu.createDay();
 ```
 ## Batuuuu :)    
-[![Discord Presence](https://lanyard.cnrad.dev/api/768789639976321044?theme=light&bg=809ecf&animated=true&hideBadges=false&hideTimestamp=false&hideStatus=true&hideDiscrim=true&idleMessage=I%20Love%20Watching%20Anime&borderRadius=30px)](https://discord.com/users/768789639976321044)
+[![Discord Presence](https://lanyard.cnrad.dev/api/768789639976321044?theme=white&bg=809ecf&animated=true&hideBadges=false&hideTimestamp=false&hideStatus=true&hideDiscrim=true&idleMessage=I%20Love%20Watching%20Anime&borderRadius=30px)](https://discord.com/users/768789639976321044)
 
 ## 🔧 Yazılım Dillerim
 - ![](https://img.shields.io/badge/OS-Windows-black?style=flat-square&logo=windows&logoColor=blue)
