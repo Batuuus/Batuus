@@ -66,8 +66,7 @@ Batuuu.createDay();
 
 
 <h3>🌟 İletişim!</h3>
- <a href="https://open.spotify.com/user/21fvizvjjspdlp2w6wznufjti?si=50afb537bc16403c" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-      <a href="https://discord.com/users/768789639976321044" target"blank_"><img src="https://img.shields.io/badge/Discord-535353?style=for-the-badge&logo=discord&logoColor=white"></a>
-      <a href="https://discord.gg/darksupreme" target"blank_"><img src="https://img.shields.io/badge/DiscordServer-535353?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/21fvizvjjspdlp2w6wznufjti?si=e82fb8884a654590" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://discord.com/users/1200000538532655206" target"blank_"><img src="https://img.shields.io/badge/Discord-535353?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
